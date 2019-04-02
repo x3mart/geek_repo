@@ -1,2 +1,2 @@
-print("Goodbye all")
-print("You are not wellcom anymore")
+print("Goodbye all");
+print("You are not wellcom anymore");
